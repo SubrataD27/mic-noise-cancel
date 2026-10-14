@@ -1,0 +1,3 @@
+pyrnnoise
+sounddevice
+numpy
